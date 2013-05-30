@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >MemoryGame
+    </string>
+    <string name="memory_game" >Memory Game
+    </string>
+    <string name="dummy_content" >DUMMY\nCONTENT</string>
+    <string name="start_button_content">Start Game</string>
+
+</resources>
